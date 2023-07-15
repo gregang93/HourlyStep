@@ -9,4 +9,4 @@ There are two Stan files:
 There are three R code files:
   1. 01_final_combined_script_demographics.R processes the data to be used as inputs to the models.
   2. 02_fit_demographics_model.R fits the data to the models.
-  3. 03_process_demographics_model.R processes the results of the model.
+  3. 03_process_demographics_model.R processes the results of the models.
