@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: HourlyStep
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Gregory
+    family-names: Ang
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11215416
+repository-code: 'https://github.com/gregang93/HourlyStep'
